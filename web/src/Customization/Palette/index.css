@@ -1,0 +1,15 @@
+:root {
+    --palette-background: #334D5C;
+    --palette-background-secondary: #D4D4D4;
+    --palette-primary:#334D5C;
+    --palette-primary-light: #56778a;
+    --palette-primary-dark:#1d2b33;
+    --palette-primary-contrastText: #ffffff;
+
+    --palette-secondary: #E56353; 
+    --palette-secondary-light:#eb8a7e;
+    --palette-secondary-dark:#a84c40;
+    --palette-secondary-contrastText: #000000;
+
+    --palette-text-input: #2E5077;
+  }
